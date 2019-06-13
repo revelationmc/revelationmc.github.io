@@ -1,1 +1,1 @@
-# revemationmc.github.io
+# revelationmc.github.io
